@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>  <title>  FAMILY </title>   
 <link rel="stylesheet" href="s1.css">
