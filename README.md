@@ -14,7 +14,7 @@
 <h2 style="color:chocolate;"> my parents are </h2>
 <h3 style="color:red;"> 1. father->> Haripada Sau  </h3>
 <p><img src="Haripada.jpg" hight="500" width="400"> </p>
-<h3 style="color:red;> 2. mother->> Banalata Sau </h3>
+<h3 style="color:red;"> 2. mother->> Banalata Sau </h3>
 <p><img src="Bana.jpg" hight="500" width="400"></p>
 <h3 style="color:red;"> 3. mother and gulu->> Banalata Sau & Shayani Sau </h3>
 <p><img src="banalata.jpg" hight="500" width="400"> </p>
