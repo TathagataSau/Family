@@ -21,8 +21,4 @@
 <p><img src="banalata.jpg" hight="500" width="400"> </p>
 
 </body>
-
-
-
-
 </html>
